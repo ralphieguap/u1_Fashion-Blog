@@ -7,17 +7,17 @@
 Hone your skills in HTML & CSS by building a page that is based on a mock up!
 ![Imgur](https://i.imgur.com/pNv1rCg.png)
 
-
 ## Prerequisites
 
 - HTML & CSS
-- Flexbox 
+- Flexbox
 
 ## Instructions
 
 The owner is looking to have a similar webpage as the one below and has hired you for the J-O-B.
 
 Be sure to:
+
 1. Fork and clone this repository.
 2. Fulfill the listed requirements.
 
@@ -26,7 +26,6 @@ repository to turn in your work.
 
 Unless otherwise specified on the calendar or by an instructor, homework is due
 the next morning by 9:00am ET.
-
 
 ## Requirements
 
@@ -71,7 +70,9 @@ _Awesome job, add, commit and push changes to create your pull request!_
 ### Bonus
 
 - Use [Google Fonts](https://fonts.google.com/).
-___
-## Submission Guidelines
-* Pull Requests must be submitted utilizing these guidelines: [PR Guidelines](https://github.com/bmorataya3/Pull-Request-Template)
 
+---
+
+## Submission Guidelines
+
+- Pull Requests must be submitted utilizing these guidelines: [PR Guidelines](https://github.com/bmorataya3/Pull-Request-Template)
